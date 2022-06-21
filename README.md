@@ -1,3 +1,3 @@
 # demo-repo
 
-First git repository.
+First git repository!
